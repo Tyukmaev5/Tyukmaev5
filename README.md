@@ -1,18 +1,26 @@
-### Hello there, I'm Iskandar 👋
+# Привет! 👋
 
-#### A SAP Developer by day ☼ and Flutter Developer by night ☾
+Меня зовут Искандар.  
+У меня высшее техническое образование, и с 2019 года я занимаюсь разработкой.  
+Интересуюсь как корпоративными решениями (SAP), так и мобильной/кроссплатформенной разработкой (Flutter).
 
-#### Work with:
+## Стек технологий
+
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## Мои pet-проекты
+
+> Ниже — примеры проектов. Когда загрузишь их на GitHub, просто подставь реальные ссылки и описания.
+
+| Проект | Описание | Стек |
+|--------|----------|------|
+| [project-1](https://github.com/username/project-1) | Краткое описание проекта №1 | Flutter |
+| [project-2](https://github.com/username/project-2) | Краткое описание проекта №2 | Flutter |
+| [project-3](https://github.com/username/project-3) | Краткое описание проекта №3 | SAP SD/MM/PP |
+
+---
 
 #### Connect with me:
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/TheDeveloperDiary)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/tyukmaev_i/)
-
-
-#### LeetCode
-[![tyukmaev's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=tyukmaev5&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
