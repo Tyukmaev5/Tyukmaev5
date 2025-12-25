@@ -17,7 +17,7 @@
 |--------|----------|------|
 | [project-1](https://github.com/username/project-1) | Краткое описание проекта №1 | Flutter |
 | [project-2](https://github.com/username/project-2) | Краткое описание проекта №2 | Flutter |
-| [project-3](https://github.com/username/project-3) | Краткое описание проекта №3 | SAP SD/MM/PP |
+| [Logical Common Place](https://github.com/Tyukmaev5/LCP) | Единое рабочее место складовщика | Flutter PWA |
 
 ---
 
