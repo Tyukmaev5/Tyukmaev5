@@ -8,7 +8,7 @@
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
-## Мои pet-проекты
+## Мои проекты
 
 > Ниже — примеры проектов. Когда загрузишь их на GitHub, просто подставь реальные ссылки и описания.
 
