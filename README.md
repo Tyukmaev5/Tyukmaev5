@@ -14,8 +14,8 @@
 
 | Проект | Описание | Стек | Стадия |
 |--------|----------|------|--------|
-| [telegram_channel_timer](https://github.com/Tyukmaev5/telegram_channel_timer) | Краткое описание проекта №1 | Flutter | в процессе |
-| [shlakobot](https://github.com/Tyukmaev5/shlakobot) | Краткое описание проекта №2 | Flutter | MVP - завершен |
+| [telegram_channel_timer](https://github.com/Tyukmaev5/telegram_channel_timer) | Таймер (бот) для телеграм каналов | Flutter | в процессе |
+| [shlakobot](https://github.com/Tyukmaev5/shlakobot) | Голосовой помощник для лаборатории, сделанный в рамках хакатона за 48 часов. | Flutter | MVP - завершен |
 | [Logical Common Place](https://github.com/Tyukmaev5/LCP) | Единое рабочее место складовщика | Flutter PWA | MVP - завершен |
 | [TizUqu](https://github.com/Tyukmaev5/TizUqu/blob/main/README.md) | Мобильное приложение для скорочтения | Flutter | в процессе |
 
