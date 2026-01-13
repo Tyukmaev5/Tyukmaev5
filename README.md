@@ -12,11 +12,12 @@
 
 > Ниже — примеры проектов. Когда загрузишь их на GitHub, просто подставь реальные ссылки и описания.
 
-| Проект | Описание | Стек |
-|--------|----------|------|
-| [project-1](https://github.com/username/project-1) | Краткое описание проекта №1 | Flutter |
-| [project-2](https://github.com/username/project-2) | Краткое описание проекта №2 | Flutter |
-| [Logical Common Place](https://github.com/Tyukmaev5/LCP) | Единое рабочее место складовщика | Flutter PWA |
+| Проект | Описание | Стек | Стадия |
+|--------|----------|------|--------|
+| [telegram_channel_timer](https://github.com/Tyukmaev5/telegram_channel_timer) | Краткое описание проекта №1 | Flutter | в процессе |
+| [shlakobot](https://github.com/Tyukmaev5/shlakobot) | Краткое описание проекта №2 | Flutter | MVP - завершен |
+| [Logical Common Place](https://github.com/Tyukmaev5/LCP) | Единое рабочее место складовщика | Flutter PWA | MVP - завершен |
+| [TizUqu](https://github.com/Tyukmaev5/TizUqu/blob/main/README.md) | Мобильное приложение для скорочтения | Flutter | в процессе |
 
 ---
 
