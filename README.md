@@ -14,7 +14,7 @@ C 2024 года занимаюсь Python разработкой.
 
 | Проект | Описание | Стек | Стадия |
 |--------|----------|------|--------|
-| [GPS Library](https://github.com/Tyukmaev5/telegram_channel_timer) | TO-DO-шка | UIKit + SwiftUI | в процессе | 
+| [GPS Library]([https://github.com/Tyukmaev5/telegram_channel_timer](https://github.com/Tyukmaev5/gpshelper)) | Библиотека для работы с GPS трекером | Python | в процессе | 
 | ? | ? | ? | ? |
 
 ---
