@@ -1,12 +1,13 @@
 # Меня зовут Искандар! 👋
 
 У меня высшее техническое образование, и с 2019 года я занимаюсь backend разработкой.  
-C 2025 года занимаюсь iOS разработкой.
+C 2024 года занимаюсь Python разработкой.
 
 ## Стек технологий
 
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-%2302569B.svg?style=for-the-badge&logo=iOS&logoColor=white)
+![Python](https://img.shields.io/badge/Swift-%2302569B.svg?style=for-the-badge&logo=iOS&logoColor=white)
+![Python](https://img.shields.io/badge/Python-repo-blue?logo=python)
 
 ## Мои проекты
 
