@@ -14,8 +14,8 @@ C 2024 года занимаюсь Python разработкой.
 
 | Проект | Описание | Стек | Стадия |
 |--------|----------|------|--------|
-| [GPS Library]([(https://github.com/Tyukmaev5/gpshelper)]) | Библиотека для работы с GPS трекером | Python | в процессе | 
-| [Digit Catalog Service]([https://github.com/Tyukmaev5/digit-catalog-service]) | Сервис на FastAPI, который скачивает каталог текстовых файлов через внешнее API | FastApi, PostgresSQL, Jinja2-шаблоны + HTMX | Завершен |
+| [GPS Library](https://github.com/Tyukmaev5/gpshelper) | Библиотека для работы с GPS трекером | Python | в процессе | 
+| [Digit Catalog Service](https://github.com/Tyukmaev5/digit-catalog-service) | Сервис на FastAPI, который скачивает каталог текстовых файлов через внешнее API | FastApi, PostgresSQL, Jinja2-шаблоны + HTMX | Завершен |
 
 ---
 
